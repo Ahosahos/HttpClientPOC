@@ -1,0 +1,14 @@
+C:\Users\SOFIAHSABIHAHBINTIMO\Desktop\HttpClientPOC\HttpClientDirectApp\bin\Debug\net9.0\HttpClientDirectApp.exe
+C:\Users\SOFIAHSABIHAHBINTIMO\Desktop\HttpClientPOC\HttpClientDirectApp\bin\Debug\net9.0\HttpClientDirectApp.deps.json
+C:\Users\SOFIAHSABIHAHBINTIMO\Desktop\HttpClientPOC\HttpClientDirectApp\bin\Debug\net9.0\HttpClientDirectApp.runtimeconfig.json
+C:\Users\SOFIAHSABIHAHBINTIMO\Desktop\HttpClientPOC\HttpClientDirectApp\bin\Debug\net9.0\HttpClientDirectApp.dll
+C:\Users\SOFIAHSABIHAHBINTIMO\Desktop\HttpClientPOC\HttpClientDirectApp\bin\Debug\net9.0\HttpClientDirectApp.pdb
+C:\Users\SOFIAHSABIHAHBINTIMO\Desktop\HttpClientPOC\HttpClientDirectApp\obj\Debug\net9.0\HttpClientDirectApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFIAHSABIHAHBINTIMO\Desktop\HttpClientPOC\HttpClientDirectApp\obj\Debug\net9.0\HttpClientDirectApp.AssemblyInfoInputs.cache
+C:\Users\SOFIAHSABIHAHBINTIMO\Desktop\HttpClientPOC\HttpClientDirectApp\obj\Debug\net9.0\HttpClientDirectApp.AssemblyInfo.cs
+C:\Users\SOFIAHSABIHAHBINTIMO\Desktop\HttpClientPOC\HttpClientDirectApp\obj\Debug\net9.0\HttpClientDirectApp.csproj.CoreCompileInputs.cache
+C:\Users\SOFIAHSABIHAHBINTIMO\Desktop\HttpClientPOC\HttpClientDirectApp\obj\Debug\net9.0\HttpClientDirectApp.dll
+C:\Users\SOFIAHSABIHAHBINTIMO\Desktop\HttpClientPOC\HttpClientDirectApp\obj\Debug\net9.0\refint\HttpClientDirectApp.dll
+C:\Users\SOFIAHSABIHAHBINTIMO\Desktop\HttpClientPOC\HttpClientDirectApp\obj\Debug\net9.0\HttpClientDirectApp.pdb
+C:\Users\SOFIAHSABIHAHBINTIMO\Desktop\HttpClientPOC\HttpClientDirectApp\obj\Debug\net9.0\HttpClientDirectApp.genruntimeconfig.cache
+C:\Users\SOFIAHSABIHAHBINTIMO\Desktop\HttpClientPOC\HttpClientDirectApp\obj\Debug\net9.0\ref\HttpClientDirectApp.dll
